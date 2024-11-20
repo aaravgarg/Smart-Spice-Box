@@ -1,4 +1,4 @@
-// Define the pins for the buttons
+// Define the pins for all buttons
 #define btn1pin A3
 #define btn2pin A2
 #define btn3pin A0
